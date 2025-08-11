@@ -19,9 +19,7 @@ Based on **UN1CA** and inspired by clean design, MeidyOS prioritizes:
 Currently, supports: **Samsung Galaxy A71** (SM-A715F/DS)
 
 ## Contact & Support
-- [Telegram Updates](https://t.me/MeidyOS_Updates)
-- [Community Chat](https://t.me/MeidyOS_Chat)
-- [XDA Thread](https://forum.xda-developers.com/)
+... soon
 
 ## Credits
 Based on **UN1CA ROM**
@@ -29,3 +27,4 @@ Based on **UN1CA ROM**
 **Special Thanks**
 - **@rmuxnet** - Kernel, tweaks and patches
 - **@exo1i** - some random dude
+- **UN1CA**
