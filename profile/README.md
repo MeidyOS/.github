@@ -11,9 +11,7 @@ Based on **UN1CA** and inspired by clean design, MeidyOS prioritizes:
 ---
 
 ## Resources
-- [Downloads](https://github.com/yourusername/MeidyOS-A71/releases)
-- [Source Code](https://github.com/yourusername/MeidyOS-A71)
-- [Installation Guide](https://github.com/yourusername/MeidyOS-A71/wiki/Installation)
+download, sauce code, installation guide soon
 
 ## Device Support
 Currently, supports: **Samsung Galaxy A71** (SM-A715F/DS)
