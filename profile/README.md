@@ -55,7 +55,19 @@ More devices coming soon!
 - **@pascua14** - Kernel base.
 - **AxionAOSP** - Website base.
 - **UN1CA Team** - Base.
-- **LineageOS** - Updater.
+- **ProjectNerv** - Base.
 - **Samsung** - For being gay as fuck.
 - **@Danda420** - PIF and per-app thermal implementation, Pixel props fixes.
-- **ShaDisNX255** - Updater source code
+- **ShaDisNX255 && Mesalabs** - Updater source code
+
+## Notice
+Everything is properly credited - commits include original authors. 
+
+**The Reality:**
+- Push broken source = "bad practice" 
+- Push working source = "code theft accusations"
+- Even original implementations get called stolen code
+
+We release source code when features are **working**, not to satisfy critics. Like with pipa mainline - we got audio working in a month, then released the full source.
+
+**Bottom line:** Source gets pushed when it's ready, not when random people demand it.
