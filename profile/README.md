@@ -58,3 +58,4 @@ More devices coming soon!
 - **LineageOS** - Updater.
 - **Samsung** - For being gay as fuck.
 - **@Danda420** - PIF and per-app thermal implementation, Pixel props fixes.
+- **ShaDisNX255** - Updater source code
